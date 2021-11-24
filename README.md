@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RickSoaresf
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Big Data
+- 📫 How to reach me on instagram @Rick_Soaresf
